@@ -169,7 +169,7 @@ Akshat Sharma`
                 transition={{ delay: 1.5 }}
                 className="text-center mt-16 mb-8 text-pink-600"
               >
-                <p className="text-lg font-medium">Made with ❤️ by Rohit Kumawat</p>
+                <p className="text-lg font-medium">Made by Rohit Kumawat</p>
               </motion.footer>
             </motion.div>
           </>
