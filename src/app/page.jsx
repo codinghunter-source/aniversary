@@ -12,7 +12,7 @@ import TapToReveal from "@/components/TapToReveal"
 import MusicPlayer from "@/components/MusicPlayer"
 
 // Change this to your anniversary date
-const ANNIVERSARY_DATE = "2026-03-31T00:00:00"
+const ANNIVERSARY_DATE = "2026-03-30T00:00:00"
 // Change this to the date you got together
 const TOGETHER_DATE = "2020-03-31T00:00:00"
 
