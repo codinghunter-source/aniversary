@@ -73,7 +73,7 @@ From our first meeting to today, you've filled my life with joy, laughter, and u
 As we celebrate another year together, I want you to know that my love for you grows stronger with each passing day. You are my best friend, my confidant, and my soulmate.
 Happy Anniversary, my love! Here's to many more years of creating beautiful memories together.
 With all my heart,
-Akshat Sharma`
+😊😊😊😊😊😊😊😊`
 
   return (
     <main className="min-h-screen overflow-x-hidden bg-gradient-to-br from-pink-100 via-purple-50 to-blue-100">
@@ -169,7 +169,7 @@ Akshat Sharma`
                 transition={{ delay: 1.5 }}
                 className="text-center mt-16 mb-8 text-pink-600"
               >
-                <p className="text-lg font-medium">Made by Rohit Kumawat</p>
+                <p className="text-lg font-medium">Made by 😊😊😊😊😊</p>
               </motion.footer>
             </motion.div>
           </>
